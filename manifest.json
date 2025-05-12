@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Tasker",
+    "version": "1.0",
+    "description": "A simple extension to catch your latest job.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "favicon-Photoroom.png",
+            "48": "favicon-Photoroom.png",
+            "128": "favicon-Photoroom.png"
+        }
+    },
+    "permissions": [
+        "storage"
+    ],
+    "icons": {
+        "16": "favicon-Photoroom.png",
+        "48": "favicon-Photoroom.png",
+        "128": "favicon-Photoroom.png"
+    }
+}
